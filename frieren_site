@@ -11,30 +11,30 @@
 
     <header>
         <div id="navbar">
-                <h1>Site do Batman</h1>     
+                <h1></h1>     
         </div>
     </header>
 
     <main>
         
-        <div id="noticias">
+        <div id="frieren">
 
             <div class="frieren_news">
 
-                <h3>Batman é visto dançando.</h3>
-                <img src="imagens/batman_dance.gif" alt="">
-                <p>Ele dança muito bem.</p>
+                <h3></h3>
+                <img src="imagens/" alt="">
+                <p></p>
 
             </div>
             <div class="noticia">
-                <h3>Batman é visto em Sorocaba</h3>
-                <img src="imagens/batman_sorocaba.jpg" alt="">
-                <p>Caramba ta calor.</p>
+                <h3></h3>
+                <img src="imagens/" alt="">
+                <p></p>
             </div>
             <div class="noticia">
-                <h3>Batemãn</h3>
-                <img src="imagens/batman_com_dor.jpg" alt="">
-                <p>AHnnnnnn</p>
+                <h3></h3>
+                <img src="imagens/" alt="">
+                <p></p>
 
             </div>
 

@@ -11,7 +11,6 @@ img{
 }
 
 #navbar{
-    display: flex;
     align-items: center;
     justify-content: center;
     border-color: rgb(15, 211, 15);
@@ -27,7 +26,7 @@ h1,h3,p {
     color: #161815;
 }
 
-#informacao {
+#frieren {
 
     text-align: center;
     border-color: #a6ff00;
@@ -36,7 +35,7 @@ h1,h3,p {
 
 }
 
-#noticias {
+#frieren {
     
     margin: 6px;
     padding: 10px;
@@ -51,7 +50,7 @@ h1,h3,p {
     justify-content: space-between;
 }
 
-.noticias {
+.frieren_news {
     border-color: rgb(238, 255, 0);
     border-style: solid;
     padding: 10px;
